@@ -5,3 +5,4 @@ mlflow
 pandas
 numpy
 PyYAML
+-e . 
